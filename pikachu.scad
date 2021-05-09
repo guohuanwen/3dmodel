@@ -1,0 +1,1 @@
+surface(file = "pikachu.png", center = true, invert = false);
